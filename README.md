@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Yiwei Ding, a researcher from China.
 
-
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=leijue222&show_icons=true">](https://metrics.lecoq.io/leijue222?template=classic)
 - 🏫 I'm a master's student in XMU majoring in Computer Science and Technology (2020-2023).
 - 🌱 My research interest lies in Computer Vision and TTS.
 - ⚡ I'm studying in Multi-Persion Pose Estimation.
